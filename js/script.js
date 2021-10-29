@@ -14,3 +14,4 @@ function calc() {
         document.getElementById('result').innerText= "Failed";
     }
 }
+
